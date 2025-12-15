@@ -1,6 +1,6 @@
 # Synthetic Data + OCR
 
-Simple data synthetic data generation and OCR training using CRNN.
+Simple data synthetic data generation and OCR training using CRNN based on https://github.com/SoyVitouPro/basicOCRonBacii and https://github.com/SoyVitouPro/gendatakh4ocr
 
 ## Preparation
 
